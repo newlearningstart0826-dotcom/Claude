@@ -1,0 +1,24 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+*.tmp
+
+# Node / Python
+node_modules/
+__pycache__/
+*.pyc
+
+# social-post skill: private local data (never commit)
+.claude/skills/social-post/.rd/
+.claude/skills/social-post/style_profile.md
+.claude/skills/social-post/content_plan.md
+.claude/skills/social-post/_scraped_posts_draft.md
+.claude/skills/social-post/drafts/
+.claude/skills/social-post/data/*
+!.claude/skills/social-post/data/rule_registry.json
+
+# Claude Code local settings
+.claude/settings.local.json
