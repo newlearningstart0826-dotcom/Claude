@@ -1,0 +1,20 @@
+{
+  "name": "newlearning-plugins",
+  "owner": {
+    "name": "newlearningstart0826-dotcom"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "creator-toolkit",
+      "source": "./plugins/creator-toolkit",
+      "description": "Skills and commands for planning and writing social content.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "keywords": ["content", "social-media", "planning"]
+    }
+  ]
+}

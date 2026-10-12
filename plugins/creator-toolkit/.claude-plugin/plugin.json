@@ -1,0 +1,10 @@
+{
+  "name": "creator-toolkit",
+  "description": "Skills and commands for planning and writing social content.",
+  "version": "0.1.0",
+  "author": {
+    "name": "newlearningstart0826-dotcom"
+  },
+  "repository": "https://github.com/newlearningstart0826-dotcom/claude",
+  "keywords": ["content", "social-media", "planning"]
+}
